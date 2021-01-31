@@ -138,3 +138,41 @@
 /data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
 /data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
 <End of Version>
+
+<Version: 4.16>
+/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
+/data/Map068.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map068.json
+/data/Map039.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map039.json
+/data/Map093.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map093.json
+/data/Map044.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map044.json
+/data/Map056.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map056.json
+/data/Map092.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map092.json
+/data/Map0104.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map0104.json
+/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
+/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
+/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
+/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
+/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
+/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
+/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
+/data/System.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/System.json
+/img/pictures/bonrofoes(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(1).png
+/img/pictures/bonrofoes(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(2).png
+/img/pictures/bonrofoes(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(3).png
+/img/pictures/bonrofoes(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(4).png
+/img/pictures/bonrofoes(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(5).png
+/img/pictures/bonrofoes(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(6).png
+/img/pictures/bonrofoes(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(7).png
+/img/pictures/bonrofoes(8).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(8).png
+/img/pictures/bonrofoes(9).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(9).png
+/img/pictures/bonrofoes(10).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(10).png
+/img/pictures/bonrofoes(11).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(11).png
+/img/pictures/bonrofoes(12).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(12).png
+/img/pictures/p!bonroin.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!bonroin.png
+/img/parallaxes/!ticonderapsul.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!ticonderapsul.png
+/img/parallaxes/!bonroin.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!bonroin.png
+/audio/bgm/bonro.ogg https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonro.ogg
+/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
+/js/rpg_windows.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/rpg_windows.js
+/img/characters/7thsaganpc1.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/7thsaganpc1.png
+<End of Version>
