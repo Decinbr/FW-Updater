@@ -56,7 +56,6 @@ var $plugins =
 {"name":"OrangeScreenshotSaver","status":true,"description":"This plugin will automatically save screenshots in a \"Screenshots\" folder inside the game","parameters":{}},
 {"name":"base64-image-upload","status":true,"description":"","parameters":{}},
 {"name":"AltMenuScreen3","status":true,"description":"Yet Another menu screen layout.","parameters":{"bgBitmapMenu":"bitmapmenu","bgBitmapItem":"","bgBitmapSkill":"","bgBitmapEquip":"","bgBitmapStatus":"","bgBitmapOptions":"","bgBitmapFile":"","bgBitmapGameEnd":"","maxColsMenu":"4","commandRows":"2","isDisplayStatus":"1"}},
-{"name":"Irina_PerformanceUpgrade","status":true,"description":"<PerformanceUpgrade> for RPG Maker MV version 1.6.2.","parameters":{"":"","AnimationHue":"false","BlurMenuBackground":"false","BlurIntensity":"0.5","CacheTextColors":"false","EnemyHue":"false","PixiContainerFlush":"false","SkipUnnecessarySnapshots":"false"}},
 {"name":"TDDP_MovePictureEx","status":true,"description":"1.0.1 Plugin Command to use variables and relative values with Move Picture","parameters":{"movePictureCommand":"MovePicture"}},
 {"name":"FontSizeChange","status":true,"description":"","parameters":{}}
 ];
