@@ -206,3 +206,7 @@
 /img/parallaxes/!bonrobb.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!bonrobb.png
 /js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
 <End of Version>
+
+<Version: 4.22>
+/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
+<End of Version>
