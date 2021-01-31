@@ -188,3 +188,16 @@
 <Version: 4.19>
 /js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
 <End of Version>
+
+<Version: 4.20>
+/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
+/data/Map104.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map104.json
+/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
+/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
+/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
+/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
+/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
+/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
+/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
+/img/pictures/bonrobb.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrobb.png
+<End of Version>
