@@ -176,3 +176,7 @@
 /js/rpg_windows.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/rpg_windows.js
 /img/characters/7thsaganpc1.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/7thsaganpc1.png
 <End of Version>
+
+<Version: 4.17>
+/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
+<End of Version>
