@@ -212,3 +212,24 @@
 <Version: 4.23>
 /img/parallaxes/bonrobb.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrobb.png
 <End of Version>
+
+<Version: 4.24>
+/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
+/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
+/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
+/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
+/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
+/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
+/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
+/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
+/img/pictures/zombiedragon(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(1).png
+/img/pictures/zombiedragon(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(2).png
+/img/pictures/zombiedragon(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(3).png
+/img/pictures/zombiedragon(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(4).png
+/img/pictures/zombiedragon(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(5).png
+/img/pictures/zombiedragon(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(6).png
+/movies/leftbehind.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/leftbehind.webm
+/movies/flamesword.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/flamesword.webm
+/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
+/js/plugins/DKTools.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/DKTools.js
+<End of Version>
