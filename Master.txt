@@ -233,3 +233,7 @@
 /js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
 /js/plugins/DKTools.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/DKTools.js
 <End of Version>
+
+<Version: 4.25>
+/img/pictures/zombiedragon(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(7).png
+<End of Version>
