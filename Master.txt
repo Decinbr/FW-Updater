@@ -311,3 +311,7 @@
 /data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
 /js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
 <End of Version>
+
+<Version: 4.28>
+/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
+<End of Version>
