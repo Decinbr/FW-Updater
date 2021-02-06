@@ -324,3 +324,8 @@
 <Version: 4.30>
 /data/Map062.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map062.json
 <End of Version>
+
+<Version: 4.31>
+/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
+/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
+<End of Version>
