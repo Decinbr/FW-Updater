@@ -339,3 +339,8 @@
 /data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
 /data/Map071.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map071.json
 <End of Version>
+
+<Version: 4.34>
+/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
+/img/parallaxes/!baron.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!baron.png
+<End of Version>
