@@ -349,3 +349,7 @@
 /data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
 /data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
 <End of Version>
+
+<Version: 4.36>
+/data/Map070.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map070.json
+<End of Version>
