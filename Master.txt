@@ -353,3 +353,26 @@
 <Version: 4.36>
 /data/Map070.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map070.json
 <End of Version>
+
+<Version: 4.37>
+/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
+/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
+/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
+/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
+/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
+/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
+/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
+/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
+/img/pictures/spekkioatt(22).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(22).png
+/img/pictures/spekkioatt(23).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(23).png
+/img/pictures/spekkioatt(24).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(24).png
+/img/pictures/spekkioatt(25).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(25).png
+/img/pictures/spekkioatt(26).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(26).png
+/img/pictures/spekkioatt(27).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(27).png
+/img/pictures/spekkioatt(28).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(28).png
+/img/pictures/spekkioatt(29).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(29).png
+/img/pictures/spekkioatt(30).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(30).png
+/img/pictures/spekkioatt(31).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(31).png
+/img/pictures/spekkioatt(32).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(32).png
+/img/pictures/spekkioatt(33).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(33).png
+<End of Version>
