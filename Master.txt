@@ -387,3 +387,7 @@
 /data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
 /data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
 <End of Version>
+
+<Version: 4.39>
+/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
+<End of Version>
