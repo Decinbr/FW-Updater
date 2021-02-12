@@ -408,3 +408,7 @@
 /img/pictures/forza.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/forza.png
 /img/pictures/magissa.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/magissa.png
 <End of Version>
+
+<Version: 4.41>
+/audio/bgm/ff5boss.ogg https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ff5boss.ogg
+<End of Version>
