@@ -687,3 +687,7 @@
 <Version: 4.44>
 /img/pictures/att1(89).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(89).png
 <End of Version>
+
+<Version: 4.45>
+/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
+<End of Version>
