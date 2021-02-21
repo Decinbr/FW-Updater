@@ -460,7 +460,6 @@
 /img/characters/ctmonsters.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ctmonsters.png
 /img/characters/ctsewerdoor.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ctsewerdoor.png
 /img/characters/7thsaganpc1.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/7thsaganpc1.png
-
 /movies/Rushring.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Rushring.webm
 /movies/shock.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/shock.webm
 /movies/megatornado.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/megatornado.webm
@@ -683,4 +682,8 @@
 /img/pictures/att1(127).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(127).png
 /img/pictures/att1(128).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(128).png
 /img/pictures/att1(129).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(129).png
+<End of Version>
+
+<Version: 4.44>
+/img/pictures/att1(89).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(89).png
 <End of Version>
