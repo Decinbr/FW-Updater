@@ -705,3 +705,8 @@
 /data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
 /audio/bgm/ctsewer.ogg https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ctsewer.ogg
 <End of Version>
+
+<Version: 4.47>
+/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
+/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
+<End of Version>
