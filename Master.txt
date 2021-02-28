@@ -710,3 +710,23 @@
 /data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
 /data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
 <End of Version>
+
+<Version: 4.48>
+/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
+/data/Map116.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map116.json
+/data/Map106.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map106.json
+/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
+/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
+/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
+/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
+/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
+/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
+/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
+/audio/bgm/ff6fanatics.ogg https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ff6fanatics.ogg
+/img/parallaxes/!infinitotowerin.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!infinitotowerin.png
+/img/parallaxes/!infinitotower.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!infinitotower.png
+/img/pictures/p!infinitotowerin.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!infinitotowerin.png
+/img/pictures/p!infinitoteto2.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!infinitoteto2.png
+/img/pictures/p!infinitoteto1.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!infinitoteto1.png
+/img/pictures/fog.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fog.png
+<End of Version>
