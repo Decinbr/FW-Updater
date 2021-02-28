@@ -730,3 +730,7 @@
 /img/pictures/p!infinitoteto1.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!infinitoteto1.png
 /img/pictures/fog.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fog.png
 <End of Version>
+
+<Version: 4.49>
+/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
+<End of Version>
