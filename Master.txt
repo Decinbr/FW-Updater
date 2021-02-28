@@ -746,3 +746,7 @@
 <Version: 4.52>
 /data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
 <End of Version>
+
+<Version: 4.53>
+/data/Map106.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map106.json
+<End of Version>
