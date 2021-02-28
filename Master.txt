@@ -738,3 +738,7 @@
 <Version: 4.50>
 /js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
 <End of Version>
+
+<Version: 4.51>
+/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
+<End of Version>
