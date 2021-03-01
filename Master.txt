@@ -750,3 +750,7 @@
 <Version: 4.53>
 /data/Map106.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map106.json
 <End of Version>
+
+<Version: 4.54>
+/data/System.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/System.json
+<End of Version>
