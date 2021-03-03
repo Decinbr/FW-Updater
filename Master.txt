@@ -796,3 +796,7 @@
 /img/pictures/Asura(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Asura(3).png
 /img/pictures/Asura(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Asura(4).png
 <End of Version>
+
+<Version: 4.57>
+/img/pictures/store.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/store.png
+<End of Version>
