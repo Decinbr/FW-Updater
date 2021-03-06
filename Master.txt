@@ -14,721 +14,109 @@
 <End of Version>
 
 <Version: 4.14>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/Map068.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map068.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
-/audio/bgm/bof4boss.ogg https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4boss.ogg
-/img/pictures/bof4(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(1).png
-/img/pictures/bof4(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(2).png
-/img/pictures/bof4(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(3).png
-/img/pictures/bof4(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(4).png
-/img/pictures/bof4(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(5).png
-/img/pictures/bof4(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(6).png
-/img/pictures/bof4(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(7).png
-/img/pictures/bof4(8).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(8).png
-/img/pictures/bof4(9).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(9).png
-/img/pictures/bof4(10).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(10).png
-/img/pictures/bof4(11).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(11).png
-/img/pictures/bof4(12).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(12).png
-/img/pictures/bof4(13).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(13).png
-/img/pictures/bof4(14).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(14).png
-/img/pictures/bof4(15).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(15).png
-/img/pictures/bof4(16).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(16).png
-/img/pictures/bof4(17).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(17).png
-/img/pictures/bof4(18).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(18).png
-/img/pictures/bof4(19).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(19).png
-/img/pictures/bof4(20).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(20).png
-/img/pictures/bof4(21).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(21).png
-/img/pictures/bof4(22).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(22).png
-/img/pictures/bof4(23).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(23).png
-/img/pictures/bof4(24).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(24).png
-/img/pictures/bof4(25).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(25).png
-/img/pictures/bof4(26).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(26).png
-/img/pictures/bof4(27).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(27).png
-/img/pictures/bof4(28).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(28).png
-/img/pictures/bof4(29).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(29).png
-/img/pictures/bof4(30).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(30).png
-/img/pictures/bof4(31).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(31).png
-/img/pictures/bof4(32).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(32).png
-/img/pictures/bof4(33).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(33).png
-/img/pictures/bof4(34).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(34).png
-/img/pictures/bof4(35).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(35).png
-/img/pictures/bof4(36).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(36).png
-/img/pictures/bof4(37).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(37).png
-/img/pictures/bof4(38).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(38).png
-/img/pictures/bof4(39).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(39).png
-/img/pictures/bof4(40).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(40).png
-/img/pictures/bof4(41).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(41).png
-/img/pictures/bof4(42).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(42).png
-/img/pictures/bof4(43).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(43).png
-/img/pictures/bof4(44).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(44).png
-/img/pictures/bof4(45).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(45).png
-/img/pictures/bof4(46).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(46).png
-/img/pictures/bof4(47).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(47).png
-/img/pictures/bof4(48).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(48).png
-/img/pictures/bof4(49).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(49).png
-/img/pictures/bof4(50).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(50).png
-/img/pictures/bof4(51).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(51).png
-/img/pictures/bof4(52).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(52).png
-/img/pictures/bof4(53).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(53).png
-/img/pictures/bof4(54).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(54).png
-/img/pictures/bof4(55).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(55).png
-/img/pictures/bof4(56).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(56).png
-/img/pictures/bof4(57).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(57).png
-/img/pictures/bof4(58).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(58).png
-/img/pictures/bof4(59).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(59).png
-/img/pictures/bof4(60).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(60).png
-/img/pictures/bof4(61).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(61).png
-/img/pictures/bof4(62).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(62).png
-/img/pictures/bof4(63).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(63).png
-/img/pictures/bof4(64).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(64).png
-/img/pictures/bof4(65).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(65).png
-/img/pictures/bof4(66).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(66).png
-/img/pictures/bof4(67).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(67).png
-/img/pictures/bof4(68).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(68).png
-/img/pictures/bof4(69).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(69).png
-/img/pictures/bof4(70).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(70).png
-/img/pictures/bof4(71).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(71).png
-/img/pictures/bof4(72).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(72).png
-/img/pictures/bof4(73).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(73).png
-/img/pictures/bof4(74).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(74).png
-/img/pictures/bof4(75).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(75).png
-/img/pictures/bof4(76).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(76).png
-/img/pictures/bof4(77).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(77).png
-/img/pictures/bof4(78).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(78).png
-/img/pictures/bof4(79).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(79).png
-/img/pictures/bof4(80).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(80).png
-/img/pictures/bof4(81).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(81).png
-/img/pictures/bof4(82).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(82).png
-/img/pictures/bof4(83).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(83).png
-/img/pictures/bof4(84).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(84).png
-/img/pictures/bof4(85).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(85).png
-/img/pictures/bof4(86).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(86).png
-/img/pictures/bof4(87).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(87).png
-/img/pictures/bof4(88).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(88).png
-/img/pictures/bof4(89).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(89).png
-/img/pictures/bof4(90).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(90).png
-/img/pictures/bof4(91).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(91).png
-/img/pictures/bof4(92).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(92).png
-/img/pictures/bof4(93).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(93).png
-/img/pictures/bof4(94).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(94).png
-/img/pictures/bof4(95).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(95).png
-/img/pictures/bof4(96).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(96).png
-/img/pictures/bof4(97).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(97).png
-/img/pictures/bof4(98).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4(98).png
-/img/pictures/bof4imperialcastle.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4imperialcastle.png
-/img/pictures/fouludesa.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fouludesa.png
-/img/pictures/bof4title.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bof4title.png
 <End of Version>
 
 <Version: 4.15>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/Map068.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map068.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
 <End of Version>
 
 <Version: 4.16>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/Map068.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map068.json
-/data/Map039.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map039.json
-/data/Map093.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map093.json
-/data/Map044.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map044.json
-/data/Map056.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map056.json
-/data/Map092.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map092.json
-/data/Map0104.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map0104.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
-/data/System.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/System.json
-/img/pictures/bonrofoes(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(1).png
-/img/pictures/bonrofoes(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(2).png
-/img/pictures/bonrofoes(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(3).png
-/img/pictures/bonrofoes(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(4).png
-/img/pictures/bonrofoes(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(5).png
-/img/pictures/bonrofoes(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(6).png
-/img/pictures/bonrofoes(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(7).png
-/img/pictures/bonrofoes(8).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(8).png
-/img/pictures/bonrofoes(9).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(9).png
-/img/pictures/bonrofoes(10).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(10).png
-/img/pictures/bonrofoes(11).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(11).png
-/img/pictures/bonrofoes(12).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrofoes(12).png
-/img/pictures/p!bonroin.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!bonroin.png
-/img/parallaxes/!ticonderapsul.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!ticonderapsul.png
-/img/parallaxes/!bonroin.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!bonroin.png
-/audio/bgm/bonro.ogg https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonro.ogg
-/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
-/js/rpg_windows.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/rpg_windows.js
-/img/characters/7thsaganpc1.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/7thsaganpc1.png
 <End of Version>
 
 <Version: 4.17>
-/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
 <End of Version>
 
 <Version: 4.18>
-/data/Map104.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map0104.json
 <End of Version>
 
 <Version: 4.19>
-/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
 <End of Version>
 
 <Version: 4.20>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/Map104.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map104.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
 <End of Version>
 
 <Version: 4.21>
-/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
 <End of Version>
 
 <Version: 4.22>
-/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
 <End of Version>
 
 <Version: 4.23>
-/img/parallaxes/bonrobb.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/bonrobb.png
 <End of Version>
 
 <Version: 4.24>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
-/img/pictures/zombiedragon(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(1).png
-/img/pictures/zombiedragon(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(2).png
-/img/pictures/zombiedragon(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(3).png
-/img/pictures/zombiedragon(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(4).png
-/img/pictures/zombiedragon(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(5).png
-/img/pictures/zombiedragon(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(6).png
-/movies/leftbehind.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/leftbehind.webm
-/movies/flamesword.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/flamesword.webm
-/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
-/js/plugins/DKTools.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/DKTools.js
 <End of Version>
 
 <Version: 4.25>
-/img/pictures/zombiedragon(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/zombiedragon(7).png
 <End of Version>
 
 <Version: 4.26>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/Map068.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map068.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
-/img/pictures/fftatt1(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(1).png
-/img/pictures/fftatt1(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(2).png
-/img/pictures/fftatt1(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(3).png
-/img/pictures/fftatt1(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(4).png
-/img/pictures/fftatt1(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(5).png
-/img/pictures/fftatt1(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(6).png
-/img/pictures/fftatt1(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(7).png
-/img/pictures/fftatt1(8).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(8).png
-/img/pictures/fftatt1(9).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(9).png
-/img/pictures/fftatt1(10).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(10).png
-/img/pictures/fftatt1(11).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(11).png
-/img/pictures/fftatt1(12).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(12).png
-/img/pictures/fftatt1(13).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(13).png
-/img/pictures/fftatt1(14).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(14).png
-/img/pictures/fftatt1(15).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(15).png
-/img/pictures/fftatt1(16).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(16).png
-/img/pictures/fftatt1(17).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(17).png
-/img/pictures/fftatt1(18).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(18).png
-/img/pictures/fftatt1(19).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(19).png
-/img/pictures/fftatt1(20).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(20).png
-/img/pictures/fftatt1(21).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(21).png
-/img/pictures/fftatt1(22).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(22).png
-/img/pictures/fftatt1(23).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(23).png
-/img/pictures/fftatt1(24).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(24).png
-/img/pictures/fftatt1(25).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(25).png
-/img/pictures/fftatt1(26).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(26).png
-/img/pictures/fftatt1(27).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(27).png
-/img/pictures/fftatt1(28).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(28).png
-/img/pictures/fftatt1(29).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(29).png
-/img/pictures/fftatt1(30).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(30).png
-/img/pictures/fftatt1(31).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(31).png
-/img/pictures/fftatt1(32).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(32).png
-/img/pictures/fftatt1(33).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(33).png
-/img/pictures/fftatt1(34).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(34).png
-/img/pictures/fftatt1(35).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(35).png
-/img/pictures/fftatt1(36).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(36).png
-/img/pictures/fftatt1(37).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(37).png
-/img/pictures/fftatt1(38).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(38).png
-/img/pictures/fftatt1(39).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(39).png
-/img/pictures/fftatt1(40).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(40).png
-/img/pictures/fftatt1(41).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(41).png
-/img/pictures/fftatt1(42).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(42).png
-/img/pictures/fftatt1(43).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(43).png
-/img/pictures/fftatt1(44).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(44).png
-/img/pictures/fftatt1(45).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(45).png
-/img/pictures/fftatt1(46).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(46).png
-/img/pictures/fftatt1(47).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fftatt1(47).png
-/img/pictures/adramelkdesa.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/adramelkdesa.png
-/img/pictures/igroscastledesa.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/igroscastledesa.png
 <End of Version>
 
 <Version: 4.27>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/Map068.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map068.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
-/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
 <End of Version>
 
 <Version: 4.28>
-/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
 <End of Version>
 
 <Version: 4.29>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
 <End of Version>
 
 <Version: 4.30>
-/data/Map062.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map062.json
 <End of Version>
 
 <Version: 4.31>
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
 <End of Version>
 
 <Version: 4.32>
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
 <End of Version>
 
 <Version: 4.33>
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/Map071.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map071.json
 <End of Version>
 
 <Version: 4.34>
-/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
-/img/parallaxes/!baron.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!baron.png
 <End of Version>
 
 <Version: 4.35>
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
 <End of Version>
 
 <Version: 4.36>
-/data/Map070.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map070.json
 <End of Version>
 
 <Version: 4.37>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
-/img/pictures/spekkioatt(22).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(22).png
-/img/pictures/spekkioatt(23).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(23).png
-/img/pictures/spekkioatt(24).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(24).png
-/img/pictures/spekkioatt(25).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(25).png
-/img/pictures/spekkioatt(26).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(26).png
-/img/pictures/spekkioatt(27).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(27).png
-/img/pictures/spekkioatt(28).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(28).png
-/img/pictures/spekkioatt(29).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(29).png
-/img/pictures/spekkioatt(30).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(30).png
-/img/pictures/spekkioatt(31).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(31).png
-/img/pictures/spekkioatt(32).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(32).png
-/img/pictures/spekkioatt(33).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/spekkioatt(33).png
 <End of Version>
 
 <Version: 4.38>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
 <End of Version>
 
 <Version: 4.39>
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
 <End of Version>
 
 <Version: 4.40>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/Map068.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map068.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
-/img/pictures/magissadesa.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/magissadesa.png
-/img/pictures/ff5title.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ff5title.png
-/img/pictures/northmountaindesa.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/northmountaindesa.png
-/img/pictures/forza.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/forza.png
-/img/pictures/magissa.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/magissa.png
 <End of Version>
 
 <Version: 4.41>
-/audio/bgm/ff5boss.ogg https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ff5boss.ogg
 <End of Version>
 
 <Version: 4.42>
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
 <End of Version>
 
 
 <Version: 4.43>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/Map068.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map068.json
-/data/Map065.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map065.json
-/data/Map083.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map083.json
-/data/Map084.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map084.json
-/data/Map023.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map023.json
-/data/Map034.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map034.json
-/data/Map044.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map044.json
-/data/Map105.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map105.json
-/data/Map108.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map108.json
-/data/Map070.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map070.json
-/data/Map103.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map103.json
-/data/Map104.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map104.json
-/data/Map107.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map107.json
-/data/Map110.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map110.json
-/data/Map111.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map111.json
-/data/Map109.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map109.json
-/data/Map115.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map115.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
-/audio/bgm/rslastboss.ogg https://raw.githubusercontent.com/Decinbr/FW-Updater/master/rslastboss.ogg
-/audio/bgm/ff6returners.ogg https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ff6returners.ogg
-/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
-/js/plugins/Eli_FixAnalogMove.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Eli_FixAnalogMove.js
-/js/plugins/SAN_AnalogMove.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/SAN_AnalogMove.js
-/img/characters/7thnpc.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/7thnpc.png
-/img/characters/ctsewermap.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ctsewermap.png
-/img/characters/ctkrawlie.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ctkrawlie.png
-/img/characters/ff6edgar.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ff6edgar.png
-/img/characters/proto2.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/proto2.png
-/img/characters/ff6terra.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ff6terra.png
-/img/characters/ff6banon.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ff6banon.png
-/img/characters/ctmonsters.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ctmonsters.png
-/img/characters/ctsewerdoor.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ctsewerdoor.png
-/img/characters/7thsaganpc1.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/7thsaganpc1.png
-/movies/Rushring.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Rushring.webm
-/movies/shock.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/shock.webm
-/movies/megatornado.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/megatornado.webm
-/movies/linkarrow.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/linkarrow.webm
-/movies/deltastorm.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/deltastorm.webm
-/movies/qzlimit1.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzlimit1.webm
-/img/parallaxes/!bonroinbb.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!bonroinbb.png
-/img/parallaxes/!returnerhideoutbb.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!returnerhideoutbb.png
-/img/parallaxes/!ticonderapsul.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!ticonderapsul.png
-/img/parallaxes/!zellisin.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!zellisin.png
-/img/parallaxes/!ff6worldp2.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!ff6worldp2.png
-/img/parallaxes/!returnerhideout.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!returnerhideout.png
-/img/parallaxes/!sewerbb.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!sewerbb.png
-/img/parallaxes/!lete(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!lete(7).png
-/img/parallaxes/!lete(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!lete(6).png
-/img/parallaxes/!lete(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!lete(5).png
-/img/parallaxes/!lete(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!lete(4).png
-/img/parallaxes/!lete(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!lete(3).png
-/img/parallaxes/!lete(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!lete(2).png
-/img/parallaxes/!lete(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!lete(1).png
-/img/parallaxes/!caveofmelenam.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!caveofmelenam.png
-/img/parallaxes/!melenamcavebb.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!melenamcavebb.png
-/img/parallaxes/!sewer.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!sewer.png
-/img/parallaxes/!lab32.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!lab32.png
-/img/parallaxes/!caveofmelenam2.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!caveofmelenam2.png
-/img/parallaxes/!zellis.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!zellis.png
-/img/parallaxes/!leteriverbb.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!leteriverbb.png
-/img/pictures/p!returnershideout.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!returnershideout.png
-/img/pictures/p!zellis.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!zellis.png
-/img/pictures/p!sewer.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!sewer.png
-/img/pictures/p!lab32.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!lab32.png
-/img/pictures/lesserlopros.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/lesserlopros.png
-/img/pictures/nautiloid.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/nautiloid.png
-/img/pictures/exocite.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/exocite.png
-/img/pictures/qzeal(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(1).png
-/img/pictures/qzeal(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(2).png
-/img/pictures/qzeal(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(3).png
-/img/pictures/qzeal(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(4).png
-/img/pictures/qzeal(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(5).png
-/img/pictures/qzeal(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(6).png
-/img/pictures/qzeal(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(7).png
-/img/pictures/qzeal(8).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(8).png
-/img/pictures/qzeal(9).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(9).png
-/img/pictures/qzeal(10).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(10).png
-/img/pictures/qzeal(11).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(11).png
-/img/pictures/qzeal(12).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(12).png
-/img/pictures/qzeal(13).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(13).png
-/img/pictures/qzeal(14).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(14).png
-/img/pictures/qzeal(15).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(15).png
-/img/pictures/qzeal(16).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(16).png
-/img/pictures/qzeal(17).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(17).png
-/img/pictures/qzeal(18).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/qzeal(18).png
-/img/pictures/fusoya(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(1).png
-/img/pictures/fusoya(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(2).png
-/img/pictures/fusoya(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(3).png
-/img/pictures/fusoya(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(4).png
-/img/pictures/fusoya(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(5).png
-/img/pictures/fusoya(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(6).png
-/img/pictures/fusoya(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(7).png
-/img/pictures/fusoya(8).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(8).png
-/img/pictures/fusoya(9).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(9).png
-/img/pictures/fusoya(10).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(10).png
-/img/pictures/fusoya(11).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(11).png
-/img/pictures/fusoya(12).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(12).png
-/img/pictures/fusoya(13).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(13).png
-/img/pictures/fusoya(14).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(14).png
-/img/pictures/fusoya(15).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fusoya(15).png
-/img/pictures/ark(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(1).png
-/img/pictures/ark(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(2).png
-/img/pictures/ark(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(3).png
-/img/pictures/ark(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(4).png
-/img/pictures/ark(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(5).png
-/img/pictures/ark(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(6).png
-/img/pictures/ark(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(7).png
-/img/pictures/ark(8).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(8).png
-/img/pictures/ark(9).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(9).png
-/img/pictures/ark(10).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(10).png
-/img/pictures/ark(11).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(11).png
-/img/pictures/ark(12).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(12).png
-/img/pictures/ark(13).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(13).png
-/img/pictures/ark(14).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(14).png
-/img/pictures/ark(15).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(15).png
-/img/pictures/ark(16).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(16).png
-/img/pictures/ark(17).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(17).png
-/img/pictures/ark(18).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(18).png
-/img/pictures/ark(19).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(19).png
-/img/pictures/ark(20).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(20).png
-/img/pictures/ark(21).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(21).png
-/img/pictures/ark(22).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(22).png
-/img/pictures/ark(23).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(23).png
-/img/pictures/ark(24).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(24).png
-/img/pictures/ark(25).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(25).png
-/img/pictures/ark(26).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ark(26).png
-/img/pictures/att1(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(1).png
-/img/pictures/att1(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(2).png
-/img/pictures/att1(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(3).png
-/img/pictures/att1(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(4).png
-/img/pictures/att1(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(5).png
-/img/pictures/att1(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(6).png
-/img/pictures/att1(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(7).png
-/img/pictures/att1(8).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(8).png
-/img/pictures/att1(9).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(9).png
-/img/pictures/att1(10).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(10).png
-/img/pictures/att1(11).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(11).png
-/img/pictures/att1(12).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(12).png
-/img/pictures/att1(13).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(13).png
-/img/pictures/att1(14).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(14).png
-/img/pictures/att1(15).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(15).png
-/img/pictures/att1(16).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(16).png
-/img/pictures/att1(17).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(17).png
-/img/pictures/att1(18).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(18).png
-/img/pictures/att1(19).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(19).png
-/img/pictures/att1(20).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(20).png
-/img/pictures/att1(21).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(21).png
-/img/pictures/att1(22).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(22).png
-/img/pictures/att1(23).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(23).png
-/img/pictures/att1(24).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(24).png
-/img/pictures/att1(25).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(25).png
-/img/pictures/att1(26).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(26).png
-/img/pictures/att1(27).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(27).png
-/img/pictures/att1(28).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(28).png
-/img/pictures/att1(29).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(29).png
-/img/pictures/att1(30).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(30).png
-/img/pictures/att1(31).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(31).png
-/img/pictures/att1(32).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(32).png
-/img/pictures/att1(33).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(33).png
-/img/pictures/att1(34).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(34).png
-/img/pictures/att1(35).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(35).png
-/img/pictures/att1(36).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(36).png
-/img/pictures/att1(37).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(37).png
-/img/pictures/att1(38).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(38).png
-/img/pictures/att1(39).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(39).png
-/img/pictures/att1(40).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(40).png
-/img/pictures/att1(41).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(41).png
-/img/pictures/att1(42).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(42).png
-/img/pictures/att1(43).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(43).png
-/img/pictures/att1(44).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(44).png
-/img/pictures/att1(45).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(45).png
-/img/pictures/att1(46).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(46).png
-/img/pictures/att1(47).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(47).png
-/img/pictures/att1(48).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(48).png
-/img/pictures/att1(49).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(49).png
-/img/pictures/att1(50).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(50).png
-/img/pictures/att1(51).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(51).png
-/img/pictures/att1(52).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(52).png
-/img/pictures/att1(53).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(53).png
-/img/pictures/att1(54).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(54).png
-/img/pictures/att1(55).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(55).png
-/img/pictures/att1(56).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(56).png
-/img/pictures/att1(57).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(57).png
-/img/pictures/att1(58).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(58).png
-/img/pictures/att1(59).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(59).png
-/img/pictures/att1(60).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(60).png
-/img/pictures/att1(61).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(61).png
-/img/pictures/att1(62).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(62).png
-/img/pictures/att1(63).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(63).png
-/img/pictures/att1(64).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(64).png
-/img/pictures/att1(65).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(65).png
-/img/pictures/att1(66).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(66).png
-/img/pictures/att1(67).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(67).png
-/img/pictures/att1(68).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(68).png
-/img/pictures/att1(69).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(69).png
-/img/pictures/att1(70).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(70).png
-/img/pictures/att1(71).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(71).png
-/img/pictures/att1(72).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(72).png
-/img/pictures/att1(73).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(73).png
-/img/pictures/att1(74).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(74).png
-/img/pictures/att1(75).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(75).png
-/img/pictures/att1(76).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(76).png
-/img/pictures/att1(77).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(77).png
-/img/pictures/att1(78).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(78).png
-/img/pictures/att1(79).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(79).png
-/img/pictures/att1(80).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(80).png
-/img/pictures/att1(81).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(81).png
-/img/pictures/att1(82).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(82).png
-/img/pictures/att1(83).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(83).png
-/img/pictures/att1(84).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(84).png
-/img/pictures/att1(85).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(85).png
-/img/pictures/att1(86).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(86).png
-/img/pictures/att1(87).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(87).png
-/img/pictures/att1(88).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(88).png
-/img/pictures/att1(89).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(89).png
-/img/pictures/att1(90).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(90).png
-/img/pictures/att1(91).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(91).png
-/img/pictures/att1(92).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(92).png
-/img/pictures/att1(93).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(93).png
-/img/pictures/att1(94).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(94).png
-/img/pictures/att1(95).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(95).png
-/img/pictures/att1(96).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(96).png
-/img/pictures/att1(97).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(97).png
-/img/pictures/att1(98).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(98).png
-/img/pictures/att1(99).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(99).png
-/img/pictures/att1(100).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(100).png
-/img/pictures/att1(101).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(101).png
-/img/pictures/att1(102).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(102).png
-/img/pictures/att1(103).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(103).png
-/img/pictures/att1(104).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(104).png
-/img/pictures/att1(105).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(105).png
-/img/pictures/att1(106).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(106).png
-/img/pictures/att1(107).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(107).png
-/img/pictures/att1(108).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(108).png
-/img/pictures/att1(109).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(109).png
-/img/pictures/att1(110).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(110).png
-/img/pictures/att1(111).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(111).png
-/img/pictures/att1(112).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(112).png
-/img/pictures/att1(113).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(113).png
-/img/pictures/att1(114).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(114).png
-/img/pictures/att1(115).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(115).png
-/img/pictures/att1(116).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(116).png
-/img/pictures/att1(117).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(117).png
-/img/pictures/att1(118).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(118).png
-/img/pictures/att1(119).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(119).png
-/img/pictures/att1(120).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(120).png
-/img/pictures/att1(121).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(121).png
-/img/pictures/att1(122).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(122).png
-/img/pictures/att1(123).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(123).png
-/img/pictures/att1(124).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(124).png
-/img/pictures/att1(125).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(125).png
-/img/pictures/att1(126).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(126).png
-/img/pictures/att1(127).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(127).png
-/img/pictures/att1(128).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(128).png
-/img/pictures/att1(129).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(129).png
 <End of Version>
 
 <Version: 4.44>
-/img/pictures/att1(89).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/att1(89).png
 <End of Version>
 
 <Version: 4.45>
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
 <End of Version>
 
 <Version: 4.46>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/Map111.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map111.json
-/data/Map109.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map109.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
-/audio/bgm/ctsewer.ogg https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ctsewer.ogg
 <End of Version>
 
 <Version: 4.47>
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
 <End of Version>
 
 <Version: 4.48>
-/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
-/data/Map116.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map116.json
-/data/Map106.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map106.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
-/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
-/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
-/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
-/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
-/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
-/audio/bgm/ff6fanatics.ogg https://raw.githubusercontent.com/Decinbr/FW-Updater/master/ff6fanatics.ogg
-/img/parallaxes/!infinitotowerin.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!infinitotowerin.png
-/img/parallaxes/!infinitotower.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/!infinitotower.png
-/img/pictures/p!infinitotowerin.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!infinitotowerin.png
-/img/pictures/p!infinitoteto2.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!infinitoteto2.png
-/img/pictures/p!infinitoteto1.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/p!infinitoteto1.png
-/img/pictures/fog.png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/fog.png
 <End of Version>
 
 <Version: 4.49>
