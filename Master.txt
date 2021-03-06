@@ -838,3 +838,7 @@
 <Version: 4.60>
 /js/plugins/base64-image-upload.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/base64-image-upload.js
 <End of Version>
+
+<Version: 4.61>
+/js/plugins.js https://raw.githubusercontent.com/Decinbr/FW-Updater/master/plugins.js
+<End of Version>
