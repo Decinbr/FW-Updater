@@ -238,3 +238,22 @@
 
 <Version: 4.63>
 <End of Version>
+
+<Version: 4.64>
+/data/Map001.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map001.json
+/data/Map106.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map106.json
+/data/Map116.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map116.json
+/data/CommonEvents.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/CommonEvents.json
+/data/Animations.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Animations.json
+/data/Actors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Actors.json
+/data/Classes.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Classes.json
+/data/Items.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Items.json
+/data/Weapons.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Weapons.json
+/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
+/img/pictures/darkowner(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/darkowner(1).png
+/img/pictures/darkowner(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/darkowner(2).png
+/img/pictures/darkowner(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/darkowner(3).png
+/img/pictures/darkowner(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/darkowner(4).png
+/img/pictures/darkowner(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/darkowner(5).png
+/movies/firaga.webm https://raw.githubusercontent.com/Decinbr/FW-Updater/master/firaga.webm
+<End of Version>
