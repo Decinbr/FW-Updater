@@ -261,3 +261,7 @@
 <Version: 4.65>
 /data/Map106.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map106.json
 <End of Version>
+
+<Version: 4.66>
+/data/Map106.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Map106.json
+<End of Version>
