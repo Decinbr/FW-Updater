@@ -280,3 +280,7 @@
 /img/pictures/undine(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/undine(3).png
 /img/pictures/undine(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/undine(4).png
 <End of Version>
+
+<Version: 4.68>
+/data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
+<End of Version>
