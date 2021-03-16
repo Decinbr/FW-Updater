@@ -284,3 +284,38 @@
 <Version: 4.68>
 /data/Armors.json https://raw.githubusercontent.com/Decinbr/FW-Updater/master/Armors.json
 <End of Version>
+
+<Version: 4.69>
+/img/pictures/foulusb(1).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(1).png
+/img/pictures/foulusb(2).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(2).png
+/img/pictures/foulusb(3).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(3).png
+/img/pictures/foulusb(4).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(4).png
+/img/pictures/foulusb(5).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(5).png
+/img/pictures/foulusb(6).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(6).png
+/img/pictures/foulusb(7).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(7).png
+/img/pictures/foulusb(8).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(8).png
+/img/pictures/foulusb(9).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(9).png
+/img/pictures/foulusb(10).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(10).png
+/img/pictures/foulusb(11).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(11).png
+/img/pictures/foulusb(12).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(12).png
+/img/pictures/foulusb(13).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(13).png
+/img/pictures/foulusb(14).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(14).png
+/img/pictures/foulusb(15).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(15).png
+/img/pictures/foulusb(16).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(16).png
+/img/pictures/foulusb(17).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(17).png
+/img/pictures/foulusb(18).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(18).png
+/img/pictures/foulusb(19).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(19).png
+/img/pictures/foulusb(20).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(20).png
+/img/pictures/foulusb(21).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(21).png
+/img/pictures/foulusb(22).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(22).png
+/img/pictures/foulusb(23).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(23).png
+/img/pictures/foulusb(24).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(24).png
+/img/pictures/foulusb(25).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(25).png
+/img/pictures/foulusb(26).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(26).png
+/img/pictures/foulusb(27).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(27).png
+/img/pictures/foulusb(28).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(28).png
+/img/pictures/foulusb(29).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(29).png
+/img/pictures/foulusb(30).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(30).png
+/img/pictures/foulusb(31).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(31).png
+/img/pictures/foulusb(32).png https://raw.githubusercontent.com/Decinbr/FW-Updater/master/foulusb(32).png
+<End of Version>
